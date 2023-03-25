@@ -1,1 +1,1 @@
-# ShellingSimulation
+# Voter Model
